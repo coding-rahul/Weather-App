@@ -1,0 +1,33 @@
+.main {
+  width: 30rem;
+  text-align: center;
+  background: #a5bbdd;
+  box-shadow: 0 0.2rem 3rem rgba(0, 0, 0, 0.2);
+  margin-top: 20vh;
+}
+
+.inputFeild {
+  width: 40%;
+  height: 8vh;
+  border-color: black;
+  padding-left: 20px;
+}
+
+/* .inputFeild:focus {
+  border-color: red;
+} */
+
+.fs {
+  font-size: 80px;
+  font-weight: 400;
+}
+
+.img {
+  font-size: 80px;
+}
+
+.errorMsg {
+  height: 30vh;
+  background: #a5bbdd;
+  font-size: 20px;
+}
